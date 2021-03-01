@@ -1,5 +1,5 @@
 # TUGAS KECIL 2 IF2211
-==================================================================
+
 # Catatan
 Program ini belum sempurna, masih belum memberikan solusi yang tepat jika matkul memiliki lebih dari satu prasyarat
 
