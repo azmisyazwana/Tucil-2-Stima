@@ -10,7 +10,7 @@ Program ini merupakan program untuk melakukan pengurutan dalam menentukan mata k
 Program ini menggunakan bahasa java sehingga Anda memerlukan compiler java. Folder nbproject dan build jangan dihapus karena bisa menyebabkan program error.
 
 # Cara Menggunakan Program
-Program ini hanya membaca file input.txt sehingga jika ingin mencoba test case yang lain Anda harus mengubah isi file input.txt menjadi kasus yang Anda inginkan. Jika menggunakan netbeans maka open projects dan pilih project program ini di folder src.
+Program ini hanya membaca file input.txt sehingga jika ingin mencoba test case yang lain Anda harus mengubah isi file input.txt menjadi kasus yang Anda inginkan. Jika menggunakan netbeans maka open projects dan pilih project program ini.
 
 # Author
 Azmi M. Syazwana || 13519151
